@@ -8,7 +8,7 @@ report only what the live snapshot and file inspection actually show.
 
 ## Sample (Suggest mode)
 
-> **Mode: 제안 모드 (read-only).** No files were changed.
+> **Mode: Suggest (read-only).** No files were changed.
 >
 > **Summary** — 44 skills (38 vendored / 6 user-authored), 1 global CLAUDE.md
 > (11 lines), 1 Stop hook, 4 enabled plugins. **2 findings: 1 High, 1 Low.**

@@ -29,8 +29,9 @@ Loaded into context **every** session, so every line pays rent.
   rot. Recommend absolute dates or removal.
 - **Vague / unactionable** (Medium). "Be careful", "use best practices" give no
   decision criteria. Flag as noise unless paired with a concrete rule.
-- **Imperative & specific is good**. Rules like "git 작업 시 X를 읽어라",
-  "완료 알림은 명시적 요청 시에만" are well-formed — concrete trigger + action.
+- **Imperative & specific is good**. Rules like "before any git work, read X" or
+  "send a completion ping only on explicit request" are well-formed — concrete
+  trigger + action.
 - **Conflicts with skills/hooks** (High). See cross-cutting section.
 - **Secrets** (High). Tokens, keys, internal URLs in CLAUDE.md leak into every
   context and any transcript. Flag for relocation to env/secret store.
